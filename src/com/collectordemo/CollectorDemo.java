@@ -12,6 +12,10 @@ public class CollectorDemo {
 	   List<Integer> mylist= stream.filter((e)->e%2==0).collect(Collectors.toList());
 	    mylist.forEach(System.out::println);	
 	}
+	public void doCalculate()
+	{ 
+		
+	}
 	
 	public void asSet() 
 	{ 
