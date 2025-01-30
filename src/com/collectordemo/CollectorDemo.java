@@ -3,7 +3,7 @@ import java.util.function.*;
 import java.util.*;
 import java.util.stream.*;
 public class CollectorDemo {
-	
+	//made changes to file
 	public void asList() 
 	{ 
 		List<Integer> numlist=Arrays.asList(12,23,11,19,55,32,16,22);
